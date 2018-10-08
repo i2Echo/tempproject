@@ -1,0 +1,164 @@
+addOption = 新增配置项
+allFieldsRemoved = 移除所有字段
+allowSelect = 允许选择
+autocomplete = 自动完成
+button = 按钮
+cannotBeEmpty = 不能为空
+checkbox = 复选框
+checkboxes = CheckBox组
+checkboxGroup = 复选框组
+class = CSS类
+clear = 清除
+clearAllMessage = 移除所有?
+confirmClearAll = 确定清空所有？
+close = 关闭
+content = 內容
+copy = 复制到剪切板
+description = 描述
+descriptionField = 描述字段
+devMode = 开发模式
+editNames = 编辑名称
+editorTitle = 编辑标题
+editXML = 编辑XML
+fieldDeleteWarning: false
+fieldNonEditable = 无法修改
+fieldRemoveWarning = 确定移除吗?
+fieldVars = 变量
+fileUpload = 文件上传
+formUpdated = 已更新表单
+getStarted = 请拖拽到此区域
+header = 头部
+hidden = 隐藏输入框
+hide = 隐藏
+input.date = 日期
+input.text = 输入框
+label = 标签
+labelEmpty = 標籤欄位名稱不能是空白的
+limitRole = 限制可讀取的角色 :
+mandatory = 強制性的
+maxlength = 最大长度
+minOptionMessage = 至少两个选项
+name = 名称
+no = 否
+off = 关
+on = 开
+option = 选项
+optional = 可选的
+optionEmpty = 请填入值
+paragraph = 段落
+placeholder = 占位符
+placeholder.className = 多个class用空格隔开。
+placeholder.email = 请输入电子邮件
+placeholder.label = 标签
+placeholder.password = 请输入密码
+placeholder.placeholder = 占位符
+placeholder.text = 输入文字
+placeholder.textarea = 请輸入文字
+placeholder.value = 值
+preview = 预览
+radio = 单选
+radioGroup = 单选组
+remove = 移除
+removeMessage = 移除元件
+required = 必要的
+richText = 富文本编辑器
+roles = 存取
+save = 保存
+select = 选择
+selectColor = 选择颜色
+selectionsMessage = 允许多选
+selectOptions = 选项
+size = 大小
+sizes = 大小
+sizes.lg = 大
+sizes.m = 中
+sizes.sm = 小
+sizes.xs = 最小
+style = 样式
+styles = 样式
+styles.btn = 按钮样式
+styles.btn.danger = Danger
+styles.btn.default = Default
+styles.btn.info = Info
+styles.btn.primary = Primary
+styles.btn.success = Success
+styles.btn.warning = Warning
+subtype = 格式
+textarea = 文本域
+toggle = 弹出提示
+viewXML = 显示XML
+yes = 是
+commonFields = 组件
+
+action.add.attrs.attr = 新增属性
+action.add.attrs.value = Default Value
+
+attribute = Attribute
+attributes = Attributes
+attrs.class = Class
+attrs.className = Class
+attrs.required = Required
+attrs.type = Type
+attrs.id = Id
+attrs.title = Title
+attrs.style = Style
+attrs.dir = 描述
+
+
+control = Control
+controlGroups.nextGroup = Next Group
+controlGroups.prevGroup = Previous Group
+
+field = Field
+
+group = 组
+grouped = Grouped
+header = Header
+
+htmlElements = HTML Elements
+info = Info
+
+labelCount = {label} {count}
+labelEmpty = 不能为空
+layout = Layout
+limitRole = Limit access to one or more of the following roles:
+
+meta.group = Group
+meta.icon = Icon
+meta.label = Label
+
+number = 数字
+
+option = Option
+optional = optional
+optionEmpty = Option value required
+optionLabel = Option {count}
+options = Options
+panelEditButtons.attrs = + 属性
+panelEditButtons.options = + 选项
+panelLabels.attrs = Attrs
+panelLabels.config = Config
+panelLabels.meta = Meta
+panelLabels.options = Options
+
+reset = Reset
+
+roles = Access
+row = Row
+row.makeInputGroup = Make this row an input group.
+row.makeInputGroupDesc = Input Groups enable users to add sets of inputs at a time.
+row.settings.fieldsetWrap = Wrap row in a &lt;fieldset&gt; tag
+row.settings.fieldsetWrap.aria = Wrap Row in Fieldset
+
+secondary = Secondary
+
+selectOptions = Options
+separator = Separator
+settings = Settings
+size = Size
+sizes = Sizes
+sizes.lg = Large
+sizes.m = Default
+sizes.sm = Small
+sizes.xs = Extra Small
+
